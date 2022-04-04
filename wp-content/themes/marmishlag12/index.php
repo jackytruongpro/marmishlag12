@@ -13,7 +13,7 @@
   <div class="grid grid-cols-12 px-18 gap-5">
 
     <div class="col-span-12">
-        <p class="text-gray-800 text-3xl font-semibold">Marmishlaggggg</p>
+        <p class="text-gray-800 text-3xl font-semibold">Marmishlagggg</p>
     </div>
 
     <!-- Card 1 -->
@@ -133,6 +133,7 @@
     </div>
 </div>
 
+<?php the_content() ?>
 <?php get_footer(); ?>
 <?php wp_footer(); ?>
 </body>
